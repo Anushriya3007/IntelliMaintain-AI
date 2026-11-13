@@ -242,3 +242,7 @@ The evaluation report is generated inside the `reports` folder.
 BE – Artificial Intelligence and Machine Learning
 
 National Institute of Engineering, Mysuru
+=======
+# IntelliMaintain-AI
+AI-powered predictive maintenance and intelligent equipment health monitoring system.
+
